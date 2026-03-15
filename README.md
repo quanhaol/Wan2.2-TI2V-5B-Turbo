@@ -41,6 +41,7 @@ The videos below can be reproduced using [examples/example.csv](examples/example
 </table>
 
 ## 📣 Updates
+- `2026/03/15` 🔥Based on our repository, FlashMotion has been accepted to CVPR 2026 and is now released [`here`](https://github.com/quanhaol/FlashMotion)!
 - `2026/01/26` 🔥Thanks to [@kijai](https://github.com/kijai) for supporting Wan2.2-TI2V-5B-Turbo in ComfyUI! [Link](https://huggingface.co/Kijai/WanVideo_comfy)
 - `2025/08/06` 🔥Wan2.2-TI2V-5B-Turbo has been released [`here`](https://huggingface.co/quanhaol/Wan2.2-TI2V-5B-Turbo).
 
